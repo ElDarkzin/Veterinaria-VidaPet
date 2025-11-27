@@ -6,7 +6,7 @@ Este repositório contém os scripts SQL (DDL e DML) necessários para criar e m
 ## 🛠️ Tecnologias e Ferramentas
 
 * **SGBD:** MySQL (Os scripts DDL/DML são compatíveis com a sintaxe padrão SQL e devem funcionar com pequenas adaptações em PostgreSQL, SQL Server, etc.).
-* **Ferramenta Utilizada:** MySQL Workbench / PGAdmin
+* **Ferramenta Utilizada:** SQLiteStudio / PGAdmin
 * **Linguagem:** SQL (DDL e DML)
 
 ---
